@@ -7,7 +7,7 @@ Visualization is the process of creating mental images or representations of dat
 
 # Some libraries are :-
 
-1.Matplotlib
-2.Seaborn
-3.Ploty
-4.Bokeh
+1.Matplotlib.
+2.Seaborn.
+3.Ploty.
+4.Bokeh.
